@@ -41,4 +41,4 @@ Number of images per class:
 
 ## Repository structure ##
 
-The folder named [real_image_industrial_objects_dataset](real_image_industrial_objects_dataset) contains the specific folder for each one of the classe specified before.
+The folder named [https://github.com/mazamorahdez/Industry-Dataset-for-MDL/tree/main/Real_videosframe_dataset](real_image_industrial_objects_dataset) contains the specific folder for each one of the classe specified before.
