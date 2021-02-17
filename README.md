@@ -11,6 +11,7 @@ https://github.com/srp-31/Data-Augmentation-for-Object-Detection-YOLO-
 ## Properties ##
 
 Format: .jpg
+
 Total number of images: 27150.
 
 Number of images per class:
