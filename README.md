@@ -8,6 +8,8 @@ This dataset is a compilation of images that contain tools such as drills, hamme
 
 https://github.com/srp-31/Data-Augmentation-for-Object-Detection-YOLO-
 
+This dataset also contains videos of an operator performing various of the characteristic actions of each of the tools listed previously, this videos come in separated by frames.
+
 ## Properties ##
 
 Format: .jpg
@@ -42,4 +44,6 @@ Number of images per class:
 
 ## Repository structure ##
 
-The folder named [Real_videosframe_dataset](https://github.com/mazamorahdez/Industry-Dataset-for-MDL/tree/main/Real_videosframe_dataset) contains the specific folder for each one of the classe specified before.
+The folder named AUN NO SE HA SUBIDO contains the specific folder for each one of the tools, accesories and complements.
+
+The folder named [Real_videosframe_dataset](https://github.com/mazamorahdez/Industry-Dataset-for-MDL/tree/main/Real_videosframe_dataset) contains the folder for each video that is separated in frames.
