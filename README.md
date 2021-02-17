@@ -42,6 +42,23 @@ Number of images per class:
 - Allen wrench: 1300.
 - Combination wrench: 950.
 
+Number of frames per video:
+- Seq001:
+- Seq002:
+- Seq003:
+- Seq004:
+- Seq005:
+- Seq006:
+- Seq007:
+- Seq008:
+- Seq009:
+- Seq010:
+- Seq011:
+- Seq012:
+- Seq013:
+- Seq014:
+- Seq015:
+
 ## Repository structure ##
 
 The folder named AUN NO SE HA SUBIDO contains the specific folder for each one of the tools, accesories and complements.
