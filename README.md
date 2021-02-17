@@ -8,7 +8,7 @@ This dataset is a compilation of images that contain tools such as drills, hamme
 
 https://github.com/srp-31/Data-Augmentation-for-Object-Detection-YOLO-
 
-This dataset also contains videos of an operator performing various of the characteristic actions of some of the tools listed previously, along with the corresponding separation in frames for each one of the videos.
+This dataset also contains videos of an operator performing the manual assembly process of a skateboard, along with the corresponding separation in frames for each one of the videos.
 
 ## Properties ##
 
