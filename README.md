@@ -8,7 +8,7 @@ This dataset is a compilation of images that contain tools such as drills, hamme
 
 https://github.com/srp-31/Data-Augmentation-for-Object-Detection-YOLO-
 
-This dataset also contains videos of an operator performing various of the characteristic actions of each of the tools listed previously, this videos come in separated by frames.
+This dataset also contains videos of an operator performing various of the characteristic actions of some of the tools listed previously, along with the corresponding separation in frames for each one of the videos.
 
 ## Properties ##
 
@@ -25,7 +25,7 @@ Number of images per class:
 - Gears: 1800.
 - Hammer ball pein: 1150.
 - Hammer claw: 1000.
-- Nut: 1700:
+- Nut: 1700.
 - Nut driver: 1750.
 - Diagonal pliers: 1250.
 - Lineman pliers: 1000.
@@ -42,22 +42,22 @@ Number of images per class:
 - Allen wrench: 1300.
 - Combination wrench: 950.
 
-Number of frames per video (All video frames are in 640x360 px resolution):
-- Seq001: 6042.
-- Seq002:
-- Seq003:
-- Seq004:
-- Seq005:
-- Seq006:
-- Seq007:
-- Seq008:
-- Seq009:
-- Seq010:
-- Seq011:
-- Seq012:
-- Seq013:
-- Seq014:
-- Seq015:
+Number of frames per video and tools involved (All video frames are in 640x360 px resolution):
+- Seq001: 6042. Wrench, screwdriver.
+- Seq002: 2752. Pliers, wrench.
+- Seq003: 3108. Screwdriver, wrench.
+- Seq004: 8808. Hammer, wrench.
+- Seq005: 6884. Wrench, screwdriver.
+- Seq006: 5640. Ratchet.
+- Seq007: 4917. Wrench, screwdriver.
+- Seq008: 3816. Screwdriver, pliers.
+- Seq009: 0653. Pliers.
+- Seq010: 2145. Pliers.
+- Seq011: 1351. Pliers.
+- Seq012: 0967. Pliers.
+- Seq013: 1908. Hammer.
+- Seq014: 0814. Drill.
+- Seq015: 1339. Drill.
 
 ## Repository structure ##
 
