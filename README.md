@@ -42,8 +42,8 @@ Number of images per class:
 - Allen wrench: 1300.
 - Combination wrench: 950.
 
-Number of frames per video:
-- Seq001:
+Number of frames per video (All video frames are in 640x360 px resolution):
+- Seq001: 6042.
 - Seq002:
 - Seq003:
 - Seq004:
